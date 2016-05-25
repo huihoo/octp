@@ -11,6 +11,7 @@
 * [谷歌全新开源人工智能系统TensorFlow官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
 * [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
 * [《Kotlin for android developers》中文版](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
+* [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 
 ## GNU/Linux中文计划
 
