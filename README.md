@@ -12,6 +12,7 @@
 * [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
 * [《Kotlin for android developers》中文版](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+* [Rust 程序设计语言 中文版](https://github.com/KaiserY/rust-book-chinese)
 
 ## GNU/Linux中文计划
 
