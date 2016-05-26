@@ -13,6 +13,7 @@
 * [《Kotlin for android developers》中文版](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 * [Rust 程序设计语言 中文版](https://github.com/KaiserY/rust-book-chinese)
+* [Play 中文文档](https://github.com/Hawstein/play-for-scala-developers)
 
 ## GNU/Linux中文计划
 
