@@ -20,8 +20,8 @@
 ## JavaScript/Node.js中文计划
 
 ## Database/NoSQL中文计划
-*[The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
-*[MongoDB 中文文档](http://docs.mongoing.com/manual-zh/)
+* [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
+* [MongoDB 中文文档](http://docs.mongoing.com/manual-zh/)
 
 ## 许可方式 License
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
