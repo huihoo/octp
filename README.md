@@ -18,6 +18,7 @@
 ## GNU/Linux中文计划
 
 ## JavaScript/Node.js中文计划
+* [Discover Meteor 中文版](http://zh.discovermeteor.com/)
 
 ## Database/NoSQL中文计划
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
