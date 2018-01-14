@@ -15,7 +15,7 @@
 * [Rust 程序设计语言 中文版](https://github.com/KaiserY/rust-book-chinese)
 * [Play 中文文档](https://github.com/Hawstein/play-for-scala-developers)
 * [Kotlin 语言中文站](https://github.com/hltj/kotlin-web-site-cn)
-* [Mesos中文文档](https://www.gitbook.com/@mesos-cn)
+* [Mesos中文文档](https://www.gitbook.com/@mesos-cn) [Huihoo镜像](http://docs.huihoo.com/apache/mesos/mesos-cn/)
 
 ## GNU/Linux中文计划
 
