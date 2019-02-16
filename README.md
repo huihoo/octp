@@ -2,6 +2,7 @@
 开放中文翻译计划 Open Chinese Translation Project (OCTP)
 
 ## GitHub上的中文计划
+* [ApacheCN 中文开源组织](https://github.com/apachecn) 
 * [中文版 Apple 官方 Swift 教程《The Swift Programming Language》](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 * [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
 * [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
